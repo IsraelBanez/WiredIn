@@ -1,0 +1,124 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@900&family=M+PLUS+1+Code:wght@500&display=swap');
+
+.profile-body {
+    position: absolute;
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ 
+}
+.profile-main-container{
+    border-radius: 10px;
+    padding: 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    display: flex;
+    flex-direction: column;
+    width: 85vw;
+    height: auto; 
+    background-color: white;
+    align-items: center;
+}
+
+.profile-header{
+    display: flex;
+    flex-direction: row;
+    height: 20%;
+    width: 100%;
+}
+.profile-return{
+    display: flex;
+    height: auto;
+    width: 5%;
+    justify-content: center;
+    align-items: center;  
+}
+.profile-return img{
+    transform: rotate(90deg);
+    object-fit: cover;
+    height: 45px;
+}
+.profile-name{
+    display: flex;
+    align-items: center;
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 55px;
+    color: #000000;
+}
+
+
+.profile-info{
+    border-radius: 15px;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    width: 90%;
+    height: 25%;
+    background-color: #e9ebf8;
+    align-items: center;
+}
+.profile-info-title{
+    display: flex;
+    align-items: start;
+    width: 100%;
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 35px;
+    color: #000000; 
+}
+.profile-info-holder{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 80%;
+    height: 100%;
+    border-radius: 10px;
+    padding-top: 15px;
+    /* background-color: red; */
+}
+.profile-info-text{
+    padding-left: 0px;
+    height: 50%;
+    display: flex;
+    align-items: start;
+    width: 100%;
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+}
+
+.profile-scores{
+    border-radius: 10px;
+    padding: 10px;
+    margin-top: 10px;
+    display: flex;
+    flex-direction: column;
+    width: 90%;
+    height: auto;
+    background-color: #e9ebf8;
+    align-items: start;  
+
+}
+.profile-score-title{
+    padding-left: 10%;
+    font-weight: 700 ;
+
+    font-family: 'Inter', sans-serif 
+}
+
+.profile-logout-button{
+    width: 100px;
+    margin-top: 20px;
+    background-color: #55CFD1 !important;
+    color:rgb(255, 255, 255) !important;
+    border-radius: 75px !important;
+    font-size: 18px !important;
+    font-weight: bold !important;
+    font-family: 'Inter', sans-serif !important;
+  }

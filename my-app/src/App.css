@@ -1,0 +1,148 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@200&family=M+PLUS+1+Code:wght@500&display=swap');
+
+body{
+  background: #45D5D5 !important;
+}
+
+.main-body {
+  background-size: contain;
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+  height: 100vh;
+  text-align: center; 
+}
+
+/*Top part of the page*/
+.nav-bar-head{
+  padding-top: 0px !important;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.434);
+}
+
+.nav-conatiner {
+  max-width: none !important;
+  height: 80px !important;
+  padding: 0 !important;
+  margin: 0 !important;
+  
+}
+
+.brand-container{
+  margin-left: 16px !important; 
+}
+.navbar-brand{
+  display: flex !important;
+  justify-content: space-between !important;
+  align-items: center !important;
+  font-family: 'M PLUS 1 Code', sans-serif !important;
+  font-size: 20px !important;
+  top: 80px;
+  right: 0; 
+  color: white !important;
+}
+.brand-name{
+  font-size: 30px;
+  height: 16px !important;
+  
+
+}
+.search-container{
+  display: flex;
+  background-color: rgba(0, 0, 0, 0.24) !important;
+  border-radius: 75px !important;
+}
+.search-icon{
+  padding-left: 10px;
+  color: white;
+}
+.search-bar{
+  box-shadow: none !important;
+  border: none !important;
+  background-color: rgba(0, 0, 0, 0) !important;
+  border-radius: 75px !important;
+  height: 30px;
+  width: 400px !important;
+  min-width: 200px !important;
+  color: white !important;
+  font-family: 'Inter', sans-serif !important;
+  font-weight: 300 !important;
+}
+
+
+.nav-link {
+  padding: 10px 5px 0px 5px !important;
+  margin: 0px 25px 0px 30px !important;
+  font-size: 15px !important;
+  font-family: 'Inter', sans-serif;
+  color: white !important;
+}
+.dividor {
+  padding-right: 40px !important;
+  margin-right: 0px !important;
+  border-right: 1px solid rgba(255, 255, 255, 0.581) !important;
+
+}
+.login-button{
+  /* height: 50px; */
+  margin-left: 40px;
+  background-color: white !important;
+  border-radius: 75px !important;
+  font-size: 18px !important;
+  width: 110px !important;
+  font-family: 'Inter', sans-serif !important;
+}
+
+/*Middle part of the page*/
+.image-body{
+  height: 70%;
+}
+.image-container{
+  height: 80% !important;
+
+}
+.slogan-container{
+  text-align: center;
+  position: relative !important;
+  height: 20% !important;
+
+}
+.slogan-container h3{
+  position: absolute !important;
+  right: 46.5%;
+  bottom: 0 !important; 
+  font-family: 'Inter', sans-serif !important;
+  color:  white !important;
+  font-size: 18px !important;
+  font-weight: 400 !important;
+}
+
+.text-container{
+  background-color: #E9EBF8 !important;
+  display: flex;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-bottom: 20px;
+  padding: 10px;
+  line-height: 2;
+  text-align: left;
+}
+
+
+
+/*Bottom part of the page */
+.button-body{
+  height: 18%;
+  display: flex;
+  justify-content: center;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  
+}
+.topic-button{
+  height: 70px;
+  width: 190px;
+  background-color: white !important;
+  border-radius: 75px !important;
+  font-size: 30px !important;
+  font-weight: 500 !important;
+  font-family: 'Inter', sans-serif !important;
+}

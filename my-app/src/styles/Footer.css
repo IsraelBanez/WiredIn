@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@200&family=M+PLUS+1+Code:wght@500&display=swap');
+
+.footer{
+    background-color: #00E4E4 !important;
+    border-top: 3px solid white;
+    min-width: 100%;
+    display: flex ;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    height: 15vh;
+    position: absolute;
+    bottom: 0;
+}
+
+.footer-link {
+    display: flex !important;
+    flex-direction: row !important;
+    gap: 40px;
+    padding: 10px 5px 10px 5px !important;
+    margin: 0px 25px 0px -10px !important;
+    font-size: 18px !important;
+    
+    font-family: 'Inter', sans-serif;
+    color: white !important;
+  }
+
+
+  .footer-brand-container{
+    margin-left: 16px !important; 
+  }
+
+  .footer-brand{
+    display: flex !important;
+    justify-content: space-between !important;
+    align-items: center !important;
+    font-family: 'M PLUS 1 Code', sans-serif !important;
+    font-size: 20px !important;
+    top: 80px;
+    right: 0; 
+    color: white !important;
+  }
+  .footer-brand-name{
+    font-size: 30px;
+    height: 16px !important;
+    padding-right: 30px;
+  }
+  a{
+    text-decoration: none !important; 
+  }

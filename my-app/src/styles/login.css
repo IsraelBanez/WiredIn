@@ -1,0 +1,98 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@500&family=M+PLUS+1+Code:wght@500&display=swap');
+
+.body {
+    position: absolute;
+    /* background: linear-gradient(107.25deg, #3DA2FF 13.23%, rgba(6, 216, 226, 0.852451) 80.7%, rgba(12, 222, 226, 0.829959) 91.25%, rgba(45, 255, 222, 0.710001) 99.68%, rgba(5, 0, 255, 0) 106.01%); */
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ 
+}
+
+.form-container{
+    height: 90%;
+    width: 45%;
+    background: #FFFFFF;
+    border-radius: 10px;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content:space-around;
+    
+}
+
+.login-header{
+    font-family: 'Inter', sans-serif;
+    font-weight: 700;
+    font-size: 55px;
+    margin-bottom: 10px;
+    
+}
+
+.info-holders{
+    margin-bottom: -20px;
+    background: rgba(12, 222, 226, 0.2) !important;
+    border-radius: 50px !important;
+    width: 400px !important;
+    height: 45px !important;
+    font-family: 'Inter', sans-serif;
+    font-size: 12px !important;
+}
+::placeholder{
+    color:rgba(0, 0, 0, 0.4) !important;
+}
+
+.forgot-link{
+    position: relative;
+    color: rgba(0, 0, 0, 0.4);
+    font-family: 'Inter', sans-serif;
+    font-size: 14px;
+    margin-top: -105px;
+    left: 135px;
+    text-decoration: none;
+}
+
+.login-btn{
+    margin-top: -60px;
+    margin-bottom: 0px;
+    width: 180px;
+    height: 60px;
+    background: #45D5D5 !important;
+    border-radius: 50px !important;
+    font-family: 'Inter', sans-serif !important;
+    color: white !important;
+    font-weight: 700 !important;
+}
+
+.line-section{
+    margin-top: -30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.line{
+    margin: 4px !important;
+    height: 0.1px;
+    width: 200px !important;
+    background: rgba(0, 0, 0, 0.152) !important;
+}
+.or{
+    margin: 0;
+    font-family: 'Inter', sans-serif;
+    font-size: 12px;
+    color: rgba(0, 0, 0, 0.4);
+}
+
+.new-section{
+    font-family: 'Inter', sans-serif;
+    font-size: 14px;
+    color: rgba(0, 0, 0, 0.4);
+    margin-bottom: 40px;
+}
+
+.new-section a{
+    color: #07BFF9;
+    text-decoration: none;
+}
