@@ -2,6 +2,8 @@
 
 This repository will hold code for a group Senior Project of several students from Cal Poly Slo.</br><br>
 
+![WiredIn Logo](WiredIn/my-app/src/updated_logo.png) 
+
 ## Group Members
 - Israel Banez
 - Reed McCullough
@@ -11,8 +13,8 @@ This repository will hold code for a group Senior Project of several students fr
 
 ## Quick Links
  - [Topic Documents / Subpages](https://github.com/IsraelBanez/WiredIn/tree/main/my-app/src/pages)
- - Quizzes
- - Source Code
+ - [Quizzes](https://github.com/IsraelBanez/WiredIn/tree/main/my-app/public/Quizzes)
+ - [Source Code](https://github.com/IsraelBanez/WiredIn/tree/main/my-app/src)
 
 <br>
 
@@ -40,10 +42,9 @@ React and (React) Bootstrap were the main resources used for the design and func
 ---
 
 ## Quickstart
-- Set up firebase configuration:</br>
-https://firebase.google.com/docs/web/setup
-- Run "npm start"</br>
-*May need to run "npm update" for dependencies or manually add the dependencies.* 
+- Set up [firebase configuration](https://firebase.google.com/docs/web/setup):</br>
+
+- Run ``` npm start ```</br> *May need to run ``` npm update ``` for dependencies or manually add the dependencies.* 
 
 ---
 
