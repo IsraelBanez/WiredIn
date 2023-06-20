@@ -1,8 +1,8 @@
+![WiredIn Logo](./my-app/src/updated_logo.png) 
+
 # WiredIn : Cal-Poly-Senior-Project
 
 This repository will hold code for a group Senior Project of several students from Cal Poly Slo.</br><br>
-
-![WiredIn Logo](WiredIn/my-app/src/updated_logo.png) 
 
 ## Group Members
 - Israel Banez
