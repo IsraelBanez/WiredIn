@@ -1,0 +1,71 @@
+What does 2FA stand for?
+A) Two-Factor Authentication
+B) Two-Factor Authorization
+C) Two-Factor Access
+D) Two-Factor Association
+
+Correct Answer: A) Two-Factor Authentication
+
+What is the purpose of 2FA?
+A) To make account logins faster
+B) To provide additional layers of security
+C) To bypass password requirements
+D) To track user activity
+
+Correct Answer: B) To provide additional layers of security
+
+What are the two forms of identification typically required in 2FA?
+A) Something you remember and something you see
+B) Something you know and something you have
+C) Something you hear and something you feel
+D) Something you touch and something you taste
+
+Correct Answer: B) Something you know and something you have
+
+Why is using the same password for multiple online accounts a security risk?
+A) It makes it harder to remember passwords
+B) It increases the chance of forgetting passwords
+C) It simplifies the login process
+D) It allows hackers to access multiple accounts if one password is compromised
+
+Correct Answer: D) It allows hackers to access multiple accounts if one password is compromised
+
+How does 2FA make it harder for hackers to gain access to your online accounts?
+A) It encrypts all user data
+B) It blocks all suspicious login attempts
+C) It requires an additional form of identification
+D) It automatically changes passwords regularly
+
+Correct Answer: C) It requires an additional form of identification
+
+What are some examples of the second form of identification in 2FA?
+A) Security questions and answers
+B) Email addresses and phone numbers
+C) Usernames and passwords
+D) Smartphone-generated codes and biometric data
+
+Correct Answer: D) Smartphone-generated codes and biometric data
+
+How does the process of 2FA work?
+A) By encrypting user data during transmission
+B) By requiring users to reset their passwords regularly
+C) By scanning user devices for malware
+D) By providing an additional form of identification after entering a password
+
+Correct Answer: D) By providing an additional form of identification after entering a password
+
+Describe a scenario of how 2FA might work.
+A) After entering a password, the user completes a Captcha.
+B) After entering a password, the user is prompted to enter their email address.
+C) After entering a password, the user logs in sucessfully.
+D) After entering a password, the user generates a unique code using an authentication app.
+
+Correct Answer: D) After entering a password, the user generates a unique code using an authentication app.
+
+What is the recommendation regarding the use of 2FA?
+A) Disable 2FA to simplify the login process
+B) Use 2FA only for unimportant online accounts
+C) Enable 2FA on all important online accounts
+D) Share 2FA codes with others for convenience
+
+Correct Answer: C) Enable 2FA on all important online accounts

@@ -1,0 +1,62 @@
+What is one example of a tradeoff when it comes to security and privacy?
+a) Easy accessibility to information and little security
+b) Almost complete invulnerability to attacks and difficulty accessing information
+Answer: a and b
+
+True or False: The Caesar Cipher is sufficient for protecting data on the internet.
+Answer: False
+
+What is meant by "breaking" an encryption?
+a) Gaining unauthorized access to encrypted information or learning of the decryption key
+b) Creating a secure encryption key
+c) Implementing a robust encryption algorithm
+d) Encrypting sensitive data
+Answer: a) Gaining unauthorized access to encrypted information or learning of the decryption key
+
+What is brute force in the context of decryption?
+a) A decryption strategy that systematically tries every possibility
+b) A method for creating strong encryption keys
+c) The process of breaking an encryption algorithm
+d) A type of social engineering attack
+Answer: a) A decryption strategy that systematically tries every possibility
+
+How can one protect against brute force decryption attacks?
+a) Using strong encryption keys and unaffiliated passwords
+b) Providing unlimited password attempts
+c) Sharing encryption keys
+Answer: a) Using strong encryption keys and unaffiliated passwords
+
+What is social engineering in the context of security attacks?
+a) Manipulating individuals to divulge sensitive information
+b) Exploiting software vulnerabilities to gain unauthorized access
+c) Implementing strong encryption algorithms
+d) Creating malicious software to infect computer systems
+Answer: a) Manipulating individuals to divulge sensitive information
+
+What is malware?
+a) Any type of software designed to negatively impact a computer system
+b) A type of encryption algorithm
+c) A strategy for protecting against brute force attacks
+d) A method of social engineering
+Answer: a) Any type of software designed to negatively impact a computer system
+
+Why should an encryption algorithm be resistant to brute force attacks?
+a) To ensure easy accessibility to encrypted information
+b) To allow for faster decryption speed
+c) To make it difficult and time-consuming for adversaries to guess the encryption key
+d) To prevent social engineering attacks
+Answer: c) To make it difficult and time-consuming for adversaries to guess the encryption key
+
+Why is it important to find the right balance between robustness and practicality in encryption methods?
+a) To ensure complete invulnerability to attacks
+b) To simplify the implementation of encryption algorithms
+c) To prevent the need for encryption options
+d) To avoid sacrificing performance for security or vice versa
+Answer: d) To avoid sacrificing performance for security or vice versa
+
+What should one be willing to accept when considering a secure encryption scheme?
+a) Easy accessibility to encrypted information
+b) Lack of resource-intensive methods
+c) Sacrificing overall performance to protect extremely sensitive data
+d) Unlimited password attempts
+Answer: c) Sacrificing overall performance to protect extremely sensitive data
