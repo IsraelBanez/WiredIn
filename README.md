@@ -90,3 +90,12 @@ During the creation and iteration steps in our project’s design process, we en
 **Sample Topics Page**</br>
 <img src="https://github.com/IsraelBanez/WiredIn/assets/59572812/1b6eb717-c301-495a-8902-2aab9527e872" width="800" height="400"> </br>
 </br>
+<br>
+
+| Problem   | Solution(s) |
+| --------- | -------- |
+| Inconsistent CSS | multiple refactors and effecient reorganization |
+| Tag Filter Functionality | Removing Topic Images or rewriting filter logic |
+| Website Hosting | Running project locally
+
+</br>
