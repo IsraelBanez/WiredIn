@@ -37,7 +37,7 @@ Our original goal for this project was to make cyber-related information more at
 
 ## Technologies Used (with Documentation)
  - React / React Bootstrap  <img src="https://github.com/IsraelBanez/WiredIn/assets/59572812/c9f01fd9-cfc8-4099-acfa-0a5a3628264f" width="25" height="20">  <img src="https://github.com/IsraelBanez/WiredIn/assets/59572812/76bea4f2-9620-4efd-90a4-f86d29dbbc1f" width="25" height="20">
- - Node  <img src="https://github.com/IsraelBanez/WiredIn/assets/59572812/5c7ddf85-2a7e-4f6a-863a-ee243b48b402" width="25" height="25">
+ - Node.js  <img src="https://github.com/IsraelBanez/WiredIn/assets/59572812/5c7ddf85-2a7e-4f6a-863a-ee243b48b402" width="25" height="25">
  - Firebase Realtime Database  <img src="https://github.com/IsraelBanez/WiredIn/assets/59572812/8aa9ef96-2cc5-4096-8ac5-846ee0e2252d" width="25" height="25">
 
 React and (React) Bootstrap were the main resources used for the design and functionality of the frontend. Initially, we were utilizing their built-in Bootstrap components, but we ended up using react for its libraries instead. Our backend was created using a combination of Node.js and Firebase’s Realtime Database. Node.js allowed for a simple command to start up our project when we wanted to test and showcase it, while Firebase allowed for us to store user information when creating an account and/or signing in.
