@@ -52,6 +52,8 @@ React and (React) Bootstrap were the main resources used for the design and func
 ## Quickstart
 - Set up [firebase configuration](https://firebase.google.com/docs/web/setup):</br>
 
+<img src="https://github.com/IsraelBanez/WiredIn/assets/59572812/b74c4599-8b53-4425-bcae-d79a9f18a3ca" width="600" height="300"> </br>
+
 - Run ``` npm start ```</br> *May need to run ``` npm update ``` for dependencies or manually add the dependencies.* 
 
 <br>
@@ -64,3 +66,5 @@ React and (React) Bootstrap were the main resources used for the design and func
 During the creation and iteration steps in our project’s design process, we encountered a few notable issues:
 
 </br>
+
+## Demo
