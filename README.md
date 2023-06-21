@@ -50,6 +50,8 @@ React and (React) Bootstrap were the main resources used for the design and func
 <br>
 
 ## Quickstart
+- Clone Repository and Install Node.js
+- In the Project Terminal, use ``` cd my-app ``` to access packages
 - Set up [firebase configuration](https://firebase.google.com/docs/web/setup):</br>
 
 <img src="https://github.com/IsraelBanez/WiredIn/assets/59572812/b74c4599-8b53-4425-bcae-d79a9f18a3ca" width="600" height="300"> </br>
@@ -63,7 +65,7 @@ React and (React) Bootstrap were the main resources used for the design and func
 <br>
 
 ## Problems and Solutions
-During the creation and iteration steps in our project’s design process, we encountered a few notable issues:
+During the creation and iteration steps in our project’s design process, we encountered a few notable issues. Below is a table representing these issues, as well as our efforts to solve them:
 
 <br>
 
