@@ -1,6 +1,6 @@
 ![WiredIn Logo](./my-app/src/updated_logo.png) 
 
-# WiredIn : Cal-Poly-Senior-Project
+# [WiredIn : Cal-Poly-Senior-Project](https://wiredin-learning.netlify.app/About)
 
 This repository will hold code for a group Senior Project of several students from Cal Poly Slo.</br><br>
 
@@ -19,7 +19,7 @@ This repository will hold code for a group Senior Project of several students fr
 <br>
 
 ## Current Status
-_**Submitted, final version complete**_<br><br>
+_**Submitted, final version complete!**_<br><br>
 
 ## Figma Board
 https://www.figma.com/file/n6xqnDOOC04YnfUi3ROWxr/Website-Front-End?t=yRDeIpmy40AGZOWa-0 
