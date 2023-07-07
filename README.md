@@ -12,6 +12,7 @@ This repository will hold code for a group Senior Project of several students fr
 <br>
 
 ## Quick Links
+ - [Project Website Link](https://wiredin-learning.netlify.app/)
  - [Topic Documents / Subpages](https://github.com/IsraelBanez/WiredIn/tree/main/my-app/src/pages)
  - [Quizzes](https://github.com/IsraelBanez/WiredIn/tree/main/my-app/public/Quizzes)
  - [Source Code](https://github.com/IsraelBanez/WiredIn/tree/main/my-app/src)
@@ -19,7 +20,7 @@ This repository will hold code for a group Senior Project of several students fr
 <br>
 
 ## Current Status
-_**Submitted, final version complete!**_<br><br>
+_**Submitted, final version complete! The website can be found [here](https://wiredin-learning.netlify.app/).**_<br><br>
 
 ## Figma Board
 https://www.figma.com/file/n6xqnDOOC04YnfUi3ROWxr/Website-Front-End?t=yRDeIpmy40AGZOWa-0 
