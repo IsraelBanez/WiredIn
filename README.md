@@ -50,7 +50,7 @@ React and (React) Bootstrap were the main resources used for the design and func
 
 <br>
 
-## Quickstart
+## Quickstart (for running locally)
 - Clone Repository and Install [Node.js](https://nodejs.org/en)
 - In the Project Terminal, use ``` cd my-app ``` to access packages
 - Set up [firebase configuration](https://firebase.google.com/docs/web/setup):</br>
